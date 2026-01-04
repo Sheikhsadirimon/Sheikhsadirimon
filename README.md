@@ -71,7 +71,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sheikhsadirimon&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-delta-sage.vercel.app?user=Sheikhsadirimon&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
