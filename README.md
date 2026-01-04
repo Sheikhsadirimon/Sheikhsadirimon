@@ -67,6 +67,9 @@
 
 ###
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sheikhsadirimon&show_icons=true&theme=tokyonight" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikhsadirimon&theme=tokyonight" />
 
 
 
