@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm a frontend web developer<br>✨ Creating bugs since 2024<br>📚 I'm currently learning react<br>🎯 Goals: Become a full stack developer<br>⚡ In my free time I love to sleep</p>
+<p align="left">👋 Hi, I'm a Frontend Web Developer <br />
+🧩 I enjoy building clean and responsive user interfaces <br />
+📚 Currently learning React, Next.js, and modern web tools <br />
+🎯 Goal: Become a skilled Full Stack Developer <br />
+⚡ Fun fact: I love to GAME! <br />
+</p> 
 
 ###
 
@@ -62,11 +67,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
-  </a>
-</div>
 
 
 
